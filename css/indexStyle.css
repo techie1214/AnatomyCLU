@@ -66,6 +66,7 @@ body {
 .header {
     display: flex;
     background-image: url("../images/Group\ 4.png");
+    background-size: cover;
     background-position: right;
     height: 550px;
     align-items: center;
